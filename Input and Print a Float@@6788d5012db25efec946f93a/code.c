@@ -4,5 +4,5 @@ int main(){
     printf("entre number");
     scanf ("%f",&a);
     printf ("%f"a);
-    return(0)
+    return 0;
 }
