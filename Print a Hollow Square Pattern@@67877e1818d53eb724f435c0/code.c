@@ -5,10 +5,8 @@ int main(){
     for(i=1; i<=n; i++){
         if(i==1 && i==n){
             for(j=1; j<=n; j++){
-            printf("*");
+                printf("*");
+            }
         }
-        printf("\n");
-        }
-        
     }
 }
